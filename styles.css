@@ -12,10 +12,14 @@ hr {
 }
 
 h1 {
-  color: darkslateblue;
+  color: darkcyan;
   font-family: monospace;
 }
 
 h3 {
-  color: cornsilk;
+  color: darkgray;
+}
+
+p {
+ color: cornsilk 
 }
