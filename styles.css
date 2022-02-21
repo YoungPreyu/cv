@@ -1,5 +1,5 @@
 body {
-  background-color: #A6B1E1;
+  background-color: slateblue;
 
 }
 
@@ -12,10 +12,10 @@ hr {
 }
 
 h1 {
-  color: #112D4E;
+  color: darkslateblue;
   font-family: monospace;
 }
 
 h3 {
-  color: #F5F5F5;
+  color: cornsilk;
 }
